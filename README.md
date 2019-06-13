@@ -1,6 +1,8 @@
-﻿# EngenhariaDeSoftware
+﻿# Engenharia_De_Software
 Diretório de versionamento para ser usado na disciplina de Engenharia de SW.
 
-Arquivos:
+Conteúdo:
 - README.md: Overview do diretório
-- EstudoDeViabilidade.doc: Artefato que descreve o Estudo de Viabilidade do projeto.
+- Estudo de Viabilidade: Artefato que descreve o Estudo de Viabilidade do projeto.
+- Documento de Arquitetura: 
+- Plano de testes:
